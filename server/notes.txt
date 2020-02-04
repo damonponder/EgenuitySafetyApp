@@ -1,0 +1,13 @@
+
+EQUIPMENT ON RIGS: 
+
+sequelize model:create --name EquipmentOnRigs --attributes 'dataConverte
+r:string ezChartNo:string company:string rig:string location:string teamViewId:string teamViewPassword
+:string laptopSerialNo:string laptopRam:string laptopOS:string macId:string account:string softwareVer
+sion:string itemType:string path:string
+
+QUICKBOOKS REPORT FOR INVENTORY
+sequelize model:create --name Inventory --attributes 'inventory:string onHand:integer onPO:integer nextDelivery:date'
+
+users:
+sequelize model:create --name users --attributes 'userId:integer email:string password:string phonenum:string createdat:timestamp updatedeat:timestamp accesslevel: integer

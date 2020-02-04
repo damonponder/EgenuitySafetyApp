@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35245257-0429-46b8-893b-d074a5f44923" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DC_ENGENUITY@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DC_ENGENUITY@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DC_ENGENUITY@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="DC_ENGENUITY: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ProjectId" id="1VCyip5Za2H1azoizsjDEPXUX2c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:DC_ENGENUITY@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:DC_ENGENUITY@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4108e0df" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:DC_ENGENUITY@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6f38b30f" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:DC_ENGENUITY@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@14dbfc41" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:DC_ENGENUITY@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6ebcd9c3" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="155" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579015852427">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state x="588" y="155" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.935@67.27.1853.935" timestamp="1579015852427" />
+    <state x="248" y="326" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1578591726516">
+      <screen x="67" y="27" width="891" height="925" />
+    </state>
+    <state x="248" y="326" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/67.27.891.925@67.27.891.925" timestamp="1578591726516" />
+    <state x="333" y="299" width="624" height="384" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1578613421501">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state x="333" y="299" key="DUMP_DIALOG_DIMENSION_KEY/67.27.1853.935@67.27.1853.935" timestamp="1578613421501" />
+    <state x="195" y="296" width="624" height="384" key="DUMP_DIALOG_DIMENSION_KEY/67.27.891.925@67.27.891.925" timestamp="1578590929024" />
+    <state x="776" y="251" width="374" height="485" key="FileChooserDialogImpl" timestamp="1579015254441">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state x="522" y="249" width="374" height="479" key="FileChooserDialogImpl/67.27.1188.925@67.27.1188.925" timestamp="1578585263315" />
+    <state x="776" y="251" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.935@67.27.1853.935" timestamp="1579015254441" />
+    <state x="409" y="251" width="374" height="485" key="FileChooserDialogImpl/67.27.893.935@67.27.893.935" timestamp="1578585878746" />
+    <state width="1244" height="236" key="GridCell.Tab.0.bottom" timestamp="1579104262246">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state width="1244" height="236" key="GridCell.Tab.0.bottom/67.27.1853.935@67.27.1853.935" timestamp="1579104262246" />
+    <state width="570" height="236" key="GridCell.Tab.0.bottom/67.27.891.925@67.27.891.925" timestamp="1579032304474" />
+    <state width="1244" height="236" key="GridCell.Tab.0.center" timestamp="1579104262245">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state width="1244" height="236" key="GridCell.Tab.0.center/67.27.1853.935@67.27.1853.935" timestamp="1579104262245" />
+    <state width="570" height="236" key="GridCell.Tab.0.center/67.27.891.925@67.27.891.925" timestamp="1579032304473" />
+    <state width="1244" height="236" key="GridCell.Tab.0.left" timestamp="1579104262244">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state width="1244" height="236" key="GridCell.Tab.0.left/67.27.1853.935@67.27.1853.935" timestamp="1579104262244" />
+    <state width="570" height="236" key="GridCell.Tab.0.left/67.27.891.925@67.27.891.925" timestamp="1579032304471" />
+    <state width="1244" height="236" key="GridCell.Tab.0.right" timestamp="1579104262245">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state width="1244" height="236" key="GridCell.Tab.0.right/67.27.1853.935@67.27.1853.935" timestamp="1579104262245" />
+    <state width="570" height="236" key="GridCell.Tab.0.right/67.27.891.925@67.27.891.925" timestamp="1579032304473" />
+    <state x="482" y="128" key="SettingsEditor" timestamp="1579015197848">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state x="482" y="128" key="SettingsEditor/67.27.1853.935@67.27.1853.935" timestamp="1579015197848" />
+    <state x="259" y="227" width="540" height="524" key="StructurePopup" timestamp="1578581390501">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state x="259" y="227" width="540" height="524" key="StructurePopup/67.27.1853.935@67.27.1853.935" timestamp="1578581390501" />
+    <state x="542" y="386" width="367" height="230" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1578601396746">
+      <screen x="67" y="27" width="1094" height="925" />
+    </state>
+    <state x="542" y="386" width="367" height="230" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/67.27.1094.925@67.27.1094.925" timestamp="1578601396746" />
+    <state x="872" y="390" width="367" height="230" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/67.27.1853.935@67.27.1853.935" timestamp="1578580552327" />
+    <state x="858" y="336" width="352" height="314" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1576775453001">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state x="858" y="336" width="352" height="314" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/67.27.1853.935@67.27.1853.935" timestamp="1576775453001" />
+    <state x="705" y="133" width="566" height="720" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1577994798577">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state x="705" y="133" width="566" height="720" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/67.27.1853.935@67.27.1853.935" timestamp="1577994798577" />
+    <state x="845" y="259" width="287" height="468" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1576771861252">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state x="845" y="259" width="287" height="468" key="com.intellij.database.view.ui.DbObjectDialog/67.27.1853.935@67.27.1853.935" timestamp="1576771861252" />
+<<<<<<< HEAD
+    <state x="649" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1580415734416">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state x="649" y="321" key="com.intellij.ide.util.TipDialog/67.27.1853.935@67.27.1853.935" timestamp="1580415734416" />
+=======
+    <state x="649" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1579998157180">
+      <screen x="67" y="27" width="1853" height="935" />
+    </state>
+    <state x="649" y="321" key="com.intellij.ide.util.TipDialog/67.27.1853.935@67.27.1853.935" timestamp="1579998157180" />
+>>>>>>> 9f512260ebe4f75834323d1c5f05e3c418a17f56
+    <state x="270" y="318" key="com.intellij.ide.util.TipDialog/67.27.891.925@67.27.891.925" timestamp="1578590057726" />
+  </component>
+</project>
