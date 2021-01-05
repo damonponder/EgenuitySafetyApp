@@ -8,7 +8,7 @@
   "dependencies": {
     "@pnp/nodejs": "^2.0.0",
     "@pnp/sp": "^2.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bcrypt": "^3.0.7",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
